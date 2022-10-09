@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A MERN Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-goswami&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-goswami" /> </p>
-
 - 🌱 I’m currently learning **Data Structure And Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ankit-Goswami?tab=repositories](https://github.com/Ankit-Goswami?tab=repositories)
